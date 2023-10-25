@@ -1,0 +1,4 @@
+﻿  ЛР7.cpp
+D:\visual studio\практичні\лр7\ЛР7\ЛР7.cpp(20,18): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+D:\visual studio\практичні\лр7\ЛР7\ЛР7.cpp(22,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ЛР7.vcxproj -> D:\visual studio\практичні\лр7\ЛР7\x64\Debug\ЛР7.exe
